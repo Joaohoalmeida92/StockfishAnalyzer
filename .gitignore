@@ -1,0 +1,12 @@
+# Artefatos de build
+build/
+dist/
+__pycache__/
+*.py[cod]
+
+# Ambientes e configurações locais
+.venv/
+venv/
+.env
+.chess_pgn_analyzer_config.json
+
